@@ -1,4 +1,4 @@
-MONGODB_CONNECT_STRING=mongodb://admin:admin-password@34.124.151.237:27021/Students?authSource=admin&readPreference=primary&ssl=false
+MONGODB_CONNECT_STRING=mongodb://admin:admin-password@34.87.147.255:27021/Students?authSource=admin&readPreference=primary&ssl=false
 
 BOT_TOKEN=1234567890:AAFBByttvsT_jR0bryfoasdfbasdydO0basdfaev3EQgg
 CHAT_ID=-10016156912345
